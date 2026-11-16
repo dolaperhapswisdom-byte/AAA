@@ -157,3 +157,26 @@ footer {
     object-fit: cover;
     border: 4px solid purple;
 }
+section {
+    background: #1e1b2e;
+    padding: 25px;
+    margin: 25px auto;
+    max-width: 800px;
+    border-radius: 15px;
+    border: 1px solid #8b5cf6;
+    color: white;
+}
+
+section h2 {
+    color: #a78bfa;
+    margin-bottom: 15px;
+}
+
+section li {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+section p {
+    line-height: 1.8;
+}
